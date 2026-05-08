@@ -1,0 +1,32 @@
+====================================---------------------------------Day 1 :====================================-----------------   
+
+new keyword = It is used to allocate memory for a new object or variable in programming languages. 
+When you create a new object or variable, the system allocates a specific amount of memory for it, and the "new" keyword is often used to indicate that this allocation is happening.
+
+identifiers = jo bhi name methods,classes , varibales ko names dete hai wo identifers.
+reserve  keywords means pele se diye hai PREDEFINDED KEYWORDS.
+legal keywords -abstract ...
+
+class,method,and varible - First Letter Capitalize...
+CamelCase Using in java: mobileUser <- example.
+
+====================================---------------------------------Day 2 :====================================-----------------   
+What is Array  : Fixed-size container that stores a collection of elements of the same type.
+What is Method : Block Of COde that perform a task 
+what is String : used to store a sequence of characters.
+Diffrence betweeon procedure and Oops language :procedure means Focus On Functions  & Less Secure Oops means Focus On Objecets and More Secure.
+
+Fetures Of Java : Platform Indepedent , Api and Standared Libraies , Multithreading.
+
+HOW TO RUN THE above Code ? 
+1.Write code in a file like HelloWorld.java.
+2.Java Compiler "javac" compiles it into bytecode "HelloWorld.class".
+3.JVM (Java Virtual Machine) reads the .class file and interprets the bytecode.
+4.The JVM initially interprets bytecode and uses JIT (Just-In-Time) compilation to convert frequently executed code into native machine code for better performance.
+
+USES OF JAVA : Game,data science , etc..
+
+Scanner class is present in used to obtain input for primitive types like int, double, etc., and strings. We can use this class to read input from a user or a file
+
+object = 
+====================================---------------------------------Day 3 :====================================-----------------   
