@@ -1,4 +1,4 @@
-package keywords;
+package keywords.ControlFlow;
 
 public class IfElse {
 
